@@ -81,9 +81,9 @@ To test the application, follow these steps:
 
 Here are some screenshots of the application:
 
-[![Screenshot 1](<img width="2559" height="1458" alt="Screenshot 2025-12-22 213131" src="https://github.com/user-attachments/assets/a904292d-25b2-4060-9d44-b3e2554ae23a" />)
-[![Screenshot 2]( <img width="2559" height="1520" alt="Screenshot 2025-12-22 214404" src="https://github.com/user-attachments/assets/599ddce2-3b83-473a-94b4-2adb216d80cf" />)
-[![Screenshot 3](<img width="2559" height="1504" alt="Screenshot 2025-12-22 214433" src="https://github.com/user-attachments/assets/eae035cd-f76a-4a3b-ac5b-d36a0794a5cb" />)
+[![Screenshot 1]<img width="2559" height="1458" alt="Screenshot 2025-12-22 213131" src="https://github.com/user-attachments/assets/a904292d-25b2-4060-9d44-b3e2554ae23a" />
+[![Screenshot 2]<img width="2559" height="1520" alt="Screenshot 2025-12-22 214404" src="https://github.com/user-attachments/assets/599ddce2-3b83-473a-94b4-2adb216d80cf" />
+[![Screenshot 3]<img width="2559" height="1504" alt="Screenshot 2025-12-22 214433" src="https://github.com/user-attachments/assets/eae035cd-f76a-4a3b-ac5b-d36a0794a5cb" />
 
 📦 API Reference
 ================
